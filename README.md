@@ -11,6 +11,8 @@ TODO:
 - Replace go-pkg-template with new repo name
 - Add high level description
 - Add usage examples
+- Add CODECOV_TOKEN secret to GitHub Actions environment secrets
+  - Get token from https://app.codecov.io/github/mccutchen/<REPO>/config/general
 - Set up branch protection rules
   - Require linear history
   - Require pull requests
